@@ -9,11 +9,11 @@ Front-end? Back-end? Full Stack? Analista de dados? Queremos conhecer gente boa,
 
 #### O que você precisa saber para entrar no nosso time: 🚀
 - Perfil multidisciplinar e proativo; Excelente comunicação interpessoal; 
+- Criar o design visual (layout e conceito criativo);
 - Desenhar wireframes, modelos de interação e mockups; 
+- Desenvolver protótipos/mockups;
 - Construir a experiência do usuário nos nossos produtos projetando interfaces;
 - Pensar e desenhar a arquitetura de informação/design de interação;
-- Desenvolver protótipos/mockups;
-- Criar o design visual (layout e conceito criativo);
 
 #### O que seria legal você saber também: 🚀
 - Entrevistar e pesquisar usuários para extrair feedbacks e criar melhorias; 
