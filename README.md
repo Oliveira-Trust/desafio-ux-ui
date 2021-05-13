@@ -8,16 +8,22 @@ Estamos buscando uma pessoa que seja movida a desafios, que saiba trabalhar em e
 Front-end? Back-end? Full Stack? Analista de dados? Queremos conhecer gente boa, que goste de colocar a mão na massa, seja responsável e queira fazer história!
 
 #### O que você precisa saber para entrar no nosso time: 🚀
+- Perfil multidisciplinar e proativo; Excelente comunicação interpessoal; 
+- Desenhar wireframes, modelos de interação e mockups; 
 - Construir a experiência do usuário nos nossos produtos projetando interfaces;
-- Conduzir pesquisas com usuários, levantar os conteúdos necessários para a entrega;
-- Apresentar e defender as soluções de design para os stakeholders e acompanhar o desenvolvimento do produto, homologando a interface;
-- Realizar reuniões com usuários e clientes;
 - Pensar e desenhar a arquitetura de informação/design de interação;
 - Desenvolver protótipos/mockups;
 - Criar o design visual (layout e conceito criativo);
 
 #### O que seria legal você saber também: 🚀
+- Entrevistar e pesquisar usuários para extrair feedbacks e criar melhorias; 
+- Desenvolver interfaces e materiais de comunicação; 
+- Entregar especificações para desenvolvedores;  
+- Experiência com criação de layouts para aplicações mobile; 
+- Conhecimento básico de HTML e CSS; 
+- Conhecimento em ferramentas de análise de comportamento do usuário; 
 
+Desejáveis Conhecimentos em ferramentas de design de interface e prototipação .
 
 #### Ao entrar nessa jornada com o nosso time, você vai: 🚀
 - Trabalhar em uma equipe de tecnologia, em um ambiente leve e descontraído e vivenciar a experiência de mudar o mercado financeiro;
