@@ -42,4 +42,4 @@ A Oliveira Trust acredita na inclusão e na promoção da diversidade em todas a
 
 ## Quer fazer parte do nosso time ? 🚀🚀🚀🚀
 
-Manda um email para vagas@oliveiratrust.com.br
+Manda um email para vagas@oliveiratrust.com.br com seu linkedin e portfólio.
