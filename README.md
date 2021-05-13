@@ -23,8 +23,6 @@ Front-end? Back-end? Full Stack? Analista de dados? Queremos conhecer gente boa,
 - Conhecimento básico de HTML e CSS; 
 - Conhecimento em ferramentas de análise de comportamento do usuário; 
 
-Desejáveis Conhecimentos em ferramentas de design de interface e prototipação .
-
 #### Ao entrar nessa jornada com o nosso time, você vai: 🚀
 - Trabalhar em uma equipe de tecnologia, em um ambiente leve e descontraído e vivenciar a experiência de mudar o mercado financeiro;
 - Dress code da forma que você se sentir mais confortável;
